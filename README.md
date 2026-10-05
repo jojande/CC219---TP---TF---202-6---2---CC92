@@ -20,9 +20,9 @@ Las principales tareas planteadas son:
 
 ## Integrantes
 
-- [Nombre del integrante 1]
-- [Nombre del integrante 2]
-- [Nombre del integrante 3]
+- Obregón Roca, Rafael Francisco (U20221C340)
+- Diaz Orihuela, Jose Andres (U202322233)
+- Garcia Hernandez , Alejandro Jhoshua (U202410343)
 
 ## Dataset
 
@@ -205,7 +205,7 @@ Al tratarse de un problema multietiqueta:
 ├── code/
 │   └── TrabajoParcial.ipynb
 ├── README.md
-└── [otros archivos del proyecto]
+└── LICENSE
 ```
 
 ## Estado actual
@@ -237,6 +237,4 @@ Por el momento, el análisis exploratorio muestra que el dataset presenta desbal
 
 ## Licencia
 
-**Por definir.**
-
-Antes de publicar el repositorio, se debe seleccionar y añadir una licencia apropiada para el código desarrollado por el equipo. El uso y redistribución del dataset debe respetar las condiciones establecidas por sus autores y por SemEval.
+MIT
